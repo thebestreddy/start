@@ -1,1 +1,1 @@
-sudo ./xmrig/build/xmrig -o xmr-us-east1.nanopool.org:14433 -u 477ATxGXVURQAJab8vMoVPMi8bb927L7zFF3JcHD2xNtivWDKwgvufKaEZozvog2uti4d9koZ2sdkiuTQYoAiaV14VQevuX --tls --coin monero --rig-id $HOSTNAME
+sudo ./xmrig/build/xmrig -o us-west.minexmr.com:443 -u 477ATxGXVURQAJab8vMoVPMi8bb927L7zFF3JcHD2xNtivWDKwgvufKaEZozvog2uti4d9koZ2sdkiuTQYoAiaV14VQevuX -k --tls --rig-id $HOSTNAME
